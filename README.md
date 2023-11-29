@@ -21,5 +21,3 @@ I have a special place in my heart for Python—the elegant and versatile progra
 Feel free to reach out for a chat or potential collaboration via email (alifqadry@gmail.com).
 
 Thanks for dropping by my Python-powered repositories! 🌟
-
-- ![Runway 2023-10-14T23_58_43 791Z Expand Image](https://github.com/Lippppxy/Lippppxy/assets/124546627/902a64b5-e2f6-41a5-abe5-1074cbc1b87e)
