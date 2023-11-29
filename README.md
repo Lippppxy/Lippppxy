@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Lippppxy
-![Uploading Runway 2023-10-14T23_58_43.791Z Expand Image.jpg…]()
+- ![Runway 2023-10-14T23_58_43 791Z Expand Image](https://github.com/Lippppxy/Lippppxy/assets/124546627/902a64b5-e2f6-41a5-abe5-1074cbc1b87e)
