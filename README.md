@@ -13,7 +13,7 @@ Hey there, I'm Muhammad Alif Qadri, but you can call me Alip. I'm a 19-year-old 
 
 ## Coding Odyssey in Python 🐍
 
-I have a special place in my heart for Python—the elegant and versatile programming language. From web development to data analysis, Python is my go-to tool for bringing ideas to life. Join me in the Pythonic journey through my repositories!
+I have a special place in my heart for Python—the elegant and versatile programming language. In the midst of my Software Engineering studies, I find joy in crafting simple programs during my leisure time. From small scripts to playful projects, my coding odyssey is a blend of learning and creative expression. Join me in the Pythonic journey through my repositories!
 
 ## Let's Connect 💬
 
