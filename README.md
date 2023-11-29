@@ -1,6 +1,7 @@
 # Hello World! 👋
 
-![Alif's GitHub Banner](your_image_link)
+![Picsart_23-11-29_19-57-14-028](https://github.com/Lippppxy/Lippppxy/assets/124546627/2571c8d1-47d7-4898-9099-9fee09b5f210)
+
 
 Hey there, I'm Muhammad Alif Qadri, but you can call me Alip. I'm a 19-year-old explorer navigating the realms of Software Engineering at Universitas Negeri Makassar. Dive into my repositories, where Python scripts come to life, and let's collaborate on some coding adventures!
 
